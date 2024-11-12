@@ -1,0 +1,6 @@
+1. In differential Manchester we assume that the last level of signal is 1
+
+2. In delta modulation we take the value of nyquist rate as 2
+3. In delta modulation we take value of delta epsilon as 0.2
+
+4. In NRZ-I we assume that the last level is -1
